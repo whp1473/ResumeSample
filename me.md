@@ -37,7 +37,7 @@
 
 # 个人信息
 
- - ![照片](https://github.com/whp1473/ResumeSample/blob/master/img/IMG_Mini.JPG)
+ - ![照片](./img/IMG_Mini.JPG)
  - 王厚平/男/1994 
  - 本科/潍坊学院/计算机科学与技术 
  - 工作年限：3年
